@@ -6,5 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Dualsticks.unity
+    path: Assets/Scenes/Dualsticks.unity
     guid: b3253c02081e4ed40971d0cea6a1877c
+  m_configObjects: {}
