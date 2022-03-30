@@ -5,6 +5,7 @@ using UnityEngine;
 public class MazeController : MonoBehaviour
 {
     [SerializeField] GameObject mazeBoard;
+    public Thumbstick thumbstick;
 
     // Start is called before the first frame update
     void Start()
