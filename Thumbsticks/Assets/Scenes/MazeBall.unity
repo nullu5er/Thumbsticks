@@ -1650,6 +1650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mazeBoard: {fileID: 1955697935}
+  thumbstick: {fileID: 0}
 --- !u!64 &1955697937
 MeshCollider:
   m_ObjectHideFlags: 0
